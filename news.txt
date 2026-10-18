@@ -1,4 +1,6 @@
-Canada, 'tragico incendio in base militare, ci sono morti e feriti'
+Canada, media: 'Almeno 7 morti in un incendio in una base militare'
+Ministro Canada, 'incidente a base militare il peggiore degli ultimi tempi'
+Trump, 'il congelamento delle nuove sanzioni alla Russia e' un'ottima decisione'
 Vance, 'immigrazione e problemi di assimilazione le cause delle violenze in Francia'
 Rubio, 'molto turbati da aggressione a fotografa Usa, Israele fermi violenza'
 Rubio, 'stop Trump a nuove sanzioni a Mosca per esame impatto su economia globale'
@@ -6,8 +8,6 @@ I sindaci di Parigi, Marsiglia e Lione chiedono un incontro col premier
 Lecornu, '1.200 fermi e 150 poliziotti feriti durante le proteste in Francia'
 Nyt, la proposta Usa all'Europa, 'comprate piu' gas dalla Russia'
 Gasperini 'Non avevo dubbi su reazione, Roma e' stata brava'
-Zacharia a Trump, 'onore indimenticabile la visita nello Studio Ovale con la famiglia'
-Lulli e il primo gol con la Roma, 'un sogno che si avvera'
 Francesco Profumo (Opit), 'IA sta cambiando lavoro e istruzione'
 Crolla il traffico sul social Truth di Donald Trump, meno 30% in un anno
 Elon Musk presenta Roadster, la sua auto volante
@@ -43,6 +43,11 @@ Ricerca Usa, le auto connesse raccolgono piu' dati del previsto
 Scendono le consegne dei Pc, in un anno giu' del 20% peggior calo dal 2023
 Anthropic vieta 'comportamenti crudeli e abusivi' contro i suoi modelli IA
 Il mondo post-umano di Cyberpunk 2077 dalla console alla sala
+Una nuova specie di coccodrillo scoperta nelle rocce usate per la Sfinge
+Riuscito in una scimmia il primo trapianto di ipofisi umana
+Un computer quantistico esegue un compito che richiederebbe oltre un secolo
+Ricostruita la storia di una coppia di stelle
+L'ovaio non va in pensione dopo la menopausa, continua a cambiare
 Dragon agganciato alla Iss, a bordo anche un ecosistema con alghe e gamberi
 Inizia una nuova era nell'esplorazione dell'Universo estremo
 Antico Egitto, prove di sacrifici umani nelle tombe dei primi re
@@ -68,15 +73,6 @@ L'ex voto segreto di Leonardo da Vinci nascosto nella sua prima opera
 L'universo bambino e' 'sconcertante', molto piu' vivace del previsto
 Lanciata la navetta cargo Dragon verso la Stazione spaziale
 Calmi o turbolenti, il carattere dei pianeti lo decide la loro stella
-Oltre 1.600 candidati per i materiali quantistici del futuro
-Nuovo record per l'orologio atomico piu' preciso al mondo
-La mappa delle grandi citta' del mondo che stanno sprofondando
-L'Italia punta a una piattaforma orbitale per studiare la gravita' artificiale
-L'IA puo' capire dalla nostra voce quanto stiamo invecchiando
-Tracce del Sistema solare primordiale nelle polveri di una cometa
-Scoperta in Cina una nuova specie di dinosauro con le ali
-Dopo 30 anni, una nuova ipotesi su un rompicapo di fisica
-Satellite sovietico in frantumi, aumenta il pericolo di incidenti in orbita
 Landini, 'sciopero generale il 20 novembre'
 Salvini, 'incontrero' autotrasportatori di Puglia, Calabria e Sicilia'
 Manovra, verso un vertice lunedi' con Meloni e Giorgetti
@@ -86,3 +82,6 @@ Salvini, banche mazzolate? Patuelli sorprendente, contributo da 5 miliardi il mi
 Tajani e Salvini lontani su banche. 'Si' al confronto'. '5 miliardi il minimo'
 Morto a 86 anni dopo una caduta, per oltre mezzo secolo al centro delle grande finanza
 Cgia, 'a Milano si pagano piu' tasse ma ci sono piu' servizi'
+Abi, accelera crescita dei prestiti a famiglie e imprese, +3,7%
+Il gasolio sfiora i 2,3 euro nel prezzo medio sulle autostrade
+Sorge (Bppb), 'amareggiati per mancato acquisto Bdm Banca, voltiamo pagina'
