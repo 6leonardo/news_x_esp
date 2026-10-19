@@ -1,15 +1,14 @@
-Duello tv tra Lula e Bolsonaro Jr, scontro su corruzione e sicurezza
-Pil cinese al 4,5% nel terzo trimestre, crescita stabile
-Allarme crematori in Giappone, entro il 2040 rischio carenza in 9 citta' su 20
-Borsa: Tokyo, apertura in calo (-0,90%)
-Wsj, 'Putin ha proposto un incontro con Trump e Xi sull'Ucraina'
-Trump accusa Zelensky, 'non vuole la fine della guerra'
-Serie A: Juventus-Lazio 0-3
-Piantedosi vede vertici polizia e questore Milano, fermati oltre 200 violenti
-Zelensky, 'Trump spinge l'Ucraina alla capitolazione di fronte alla Russia'
-Fiorello torna su Rai1 con 'Tg1 edizione piu' che straordinaria'
+Wfp, 'pochi i fondi, 500 mila gazawi resteranno senza aiuti'
+Kiev, 'gli alleati non ci hanno avvertito del primo attacco sulla capitale'
+12 migranti morti nell'Egeo, 6 tra cui neonato in collisione con nave polizia
+Ministro Interno Francia, 'in alcune citta' abbiamo perso il controllo'
+Lavoratori dell'ex Ilva di Cornigliano occupano l'aeroporto di Genova
+Borsa: l'Europa parte in negativo, Parigi -0,9%
+Presa a martellate dal marito sul bus, morta dopo cinque mesi
+Borsa: Milano apre a -0,69% con Stellantis e le banche
+Borsa: Asia in rialzo con la crescita cinese, l'Europa e' attesa debole
+Lo spread tra Btp e Bund in avvio e' in rialzo a 109 punti base
 Cordasco, 'allarmi IA possibile tentativo dei Big di orientare le regole'
-Francesco Profumo (Opit), 'IA sta cambiando lavoro e istruzione'
 Crolla il traffico sul social Truth di Donald Trump, meno 30% in un anno
 Elon Musk presenta Roadster, la sua auto volante
 A Ttg l'intervista al robot umanoide, 'non provo emozioni ma imparo da voi'
@@ -43,6 +42,7 @@ Esperto Usa, 'con l'IA capacita' cognitive sacrificate per la comodita''
 Ricerca Usa, le auto connesse raccolgono piu' dati del previsto
 Scendono le consegne dei Pc, in un anno giu' del 20% peggior calo dal 2023
 Anthropic vieta 'comportamenti crudeli e abusivi' contro i suoi modelli IA
+La matematica prevede quando i chatbot possono diventare pericolosi
 Lincei, regole ancora insufficienti sull'uso dell'IA nella medicina
 Dalla storia della scienza una lezione per leggere meglio il presente
 Addio al secondo extra, dal 20 maggio 2027
@@ -69,17 +69,21 @@ La Luna e' colorata, parola degli astronauti della missione Artemis II
 Vaccini piu' efficaci e sicuri da Rna messaggero progettati su misura
 Le culle di stelle nascoste in galassie bizzarre e bolle di polveri
 Parisi, 'la grande sfida attuale e' ridurre le disuguaglianze'
-Luna, pubblicati 800 gigabyte di foto e dati anche inediti di Artemis II
-Le cellule del tumore del pancreas si travestono per sfuggire ai farmaci
-Si cerca uno standard per misurare il tempo sulla Luna
-L'ex voto segreto di Leonardo da Vinci nascosto nella sua prima opera
-L'universo bambino e' 'sconcertante', molto piu' vivace del previsto
-Lanciata la navetta cargo Dragon verso la Stazione spaziale
-Calmi o turbolenti, il carattere dei pianeti lo decide la loro stella
+Il Btp Valore Insieme totalizza 100 milioni di controvalore in avvio di seduta
+Assemblea pubblica dell'Unione Industriali di Torino col presidente Marco Gay
+C.Conti, liste di attesa sono una criticita' strutturale, i fondi non bastano
+Prezzi dei carburanti stabili, gasolio a 2,257 euro al litro
+Panetta, nel 2025 da clima danni per 200 miliardi, ruolo governi primario
+L'euro arretra sulle proteste in Francia, -0,14% a 1,1223 dollari
+Sale il prezzo dell'oro, spot a 4.183 dollari l'oncia
+Panetta, cambiamento clima colpisce economia ma politiche siano sostenibili
+In calo il prezzo del petrolio, Brent scende a 107,8 dollari
+Il prezzo del gas viaggia in rialzo sopra 88 euro al megawattora
+Pil cinese al 4,5% nel terzo trimestre, crescita stabile
+Borsa: Tokyo, apertura in calo (-0,90%)
 A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima
 Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas
 Confcommercio, a Milano oltre mezzo milione di euro di danni
 Mit, 6 milioni per 32 interventi ad edifici di culto in 12 regioni
 E' morto Vitaliano Borromeo Arese, era il presidente di Kaleon
 Mimit, benzina in lieve calo, in rialzo il diesel in autostrada
-Danni climatici costati 915 miliardi per l'Europa dal 1980, caldo 2026 un punto di Pil
