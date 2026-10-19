@@ -1,13 +1,16 @@
-Wfp, 'pochi i fondi, 500 mila gazawi resteranno senza aiuti'
-Kiev, 'gli alleati non ci hanno avvertito del primo attacco sulla capitale'
-12 migranti morti nell'Egeo, 6 tra cui neonato in collisione con nave polizia
-Ministro Interno Francia, 'in alcune citta' abbiamo perso il controllo'
-Lavoratori dell'ex Ilva di Cornigliano occupano l'aeroporto di Genova
-Borsa: l'Europa parte in negativo, Parigi -0,9%
-Presa a martellate dal marito sul bus, morta dopo cinque mesi
-Borsa: Milano apre a -0,69% con Stellantis e le banche
-Borsa: Asia in rialzo con la crescita cinese, l'Europa e' attesa debole
-Lo spread tra Btp e Bund in avvio e' in rialzo a 109 punti base
+Media, raid Houthi contro campo militare forze governative in Yemen, 20 morti'
+Protesta tir, Confcom lancia allarme, a rischio rifornimenti nei supermercati
+Poste, gestite oltre 300 mila richieste di rilascio dei passaporti
+Fonti Ue, 'verso Consiglio europeo a Roma nel marzo del 2027'
+Sala visita negozi assaltati, 'fase delicata, tensioni non sono finite'
+Lega: Romeo, sostengo corsa di Garavaglia, il voto segreto e' assolutamente scontato
+In corso a Palazzo Chigi il vertice sull'ordine pubblico con Meloni
+Il gas sale sopra gli 89 euro sulla piazza Ttf di Amsterdam
+Caos in Francia, premier Lecornu ordina l'attuazione di 'diversi coprifuoco'
+Cremlino, 'i disordini in Europa sono una grave crisi al limite del caos'
+Meta modifica i termini commerciali, 'nessuna estrazione di dati dai siti di notizie'
+Dopo il fallimento di Character.AI, Disney pronta ad assumere decine ex dipendenti
+OpenAI conferma lo sviluppo di un robot umanoide, pronto per il 2027
 Cordasco, 'allarmi IA possibile tentativo dei Big di orientare le regole'
 Crolla il traffico sul social Truth di Donald Trump, meno 30% in un anno
 Elon Musk presenta Roadster, la sua auto volante
@@ -37,12 +40,10 @@ Smartphone a 11 anni per sette ragazzi su 10
 E' l'Ada Lovelace Day, dedicato alle donne nella scienza
 Dall'atomica all'uso malevolo dell'IA, 'le 17 minacce per l'umanita''
 Microsoft lancia Maia 300, punta su un chip IA proprietario per sfidare Nvidia
-Mattarella, l'IA sia a servizio della persona e della coesione sociale
-Esperto Usa, 'con l'IA capacita' cognitive sacrificate per la comodita''
-Ricerca Usa, le auto connesse raccolgono piu' dati del previsto
-Scendono le consegne dei Pc, in un anno giu' del 20% peggior calo dal 2023
-Anthropic vieta 'comportamenti crudeli e abusivi' contro i suoi modelli IA
+In Italia il laboratorio delle regole a sostegno dell'innovazione Ue
+Verde, giallo e viola, ecco i colori reali delle stelle nane bianche
 La matematica prevede quando i chatbot possono diventare pericolosi
+Scienziati a Singapore chiedono lo stop alla creazione di 'vita speculare'
 Lincei, regole ancora insufficienti sull'uso dell'IA nella medicina
 Dalla storia della scienza una lezione per leggere meglio il presente
 Addio al secondo extra, dal 20 maggio 2027
@@ -66,24 +67,21 @@ Vecchie cellule del sangue trasformate in giovani neuroni
 Con l'IA possibili le previsioni meteo fino a 6 settimane
 Marte, il rover Perseverance batte il record di distanza percorsa VIDEO
 La Luna e' colorata, parola degli astronauti della missione Artemis II
-Vaccini piu' efficaci e sicuri da Rna messaggero progettati su misura
-Le culle di stelle nascoste in galassie bizzarre e bolle di polveri
-Parisi, 'la grande sfida attuale e' ridurre le disuguaglianze'
-Il Btp Valore Insieme totalizza 100 milioni di controvalore in avvio di seduta
-Assemblea pubblica dell'Unione Industriali di Torino col presidente Marco Gay
-C.Conti, liste di attesa sono una criticita' strutturale, i fondi non bastano
-Prezzi dei carburanti stabili, gasolio a 2,257 euro al litro
-Panetta, nel 2025 da clima danni per 200 miliardi, ruolo governi primario
-L'euro arretra sulle proteste in Francia, -0,14% a 1,1223 dollari
-Sale il prezzo dell'oro, spot a 4.183 dollari l'oncia
-Panetta, cambiamento clima colpisce economia ma politiche siano sostenibili
-In calo il prezzo del petrolio, Brent scende a 107,8 dollari
-Il prezzo del gas viaggia in rialzo sopra 88 euro al megawattora
-Pil cinese al 4,5% nel terzo trimestre, crescita stabile
-Borsa: Tokyo, apertura in calo (-0,90%)
-A Folgiero (Fincantieri) il Premio Niaf per l'eccellenza nell'industria marittima
-Bollette, sconto dal 2027, un nuovo decreto per fissare il tetto al gas
-Confcommercio, a Milano oltre mezzo milione di euro di danni
-Mit, 6 milioni per 32 interventi ad edifici di culto in 12 regioni
-E' morto Vitaliano Borromeo Arese, era il presidente di Kaleon
-Mimit, benzina in lieve calo, in rialzo il diesel in autostrada
+Mef, fisco piu' semplice con TrovaTU, motore di ricerca dei nuovi Testi unici
+Amb. Grandi premia giovani cuochi per corso formazione finanziato dall'Italia
+Protesta tir, Confcommercio lancia l'allarme: 'A rischio i rifornimenti nei supermercati'
+Borsa: l'Europa in rosso guarda alle proteste, in recupero il petrolio
+Protesta tir, blocchi a magazzini grande distribuzione, sos cibi nei market Campania
+Protesta Tir, mancano rifornimenti, scaffali vuoti nei supermercati in Calabria
+Il Btp Valore favorito, 2 miliardi di controvalore in oltre 3 ore
+Ocse, l'Italia ha retto agli shock ma rafforzare la crescita di lungo periodo
+In Cina vendite al dettaglio in crescita dell'1,1% a settembre
+Ue, da Kkr 'informazioni fuorvianti o inesatte' sull'acquisizione della rete Tim
+Ancora proteste autotrasportatori, rischio rincari sugli scaffali
+Borsa: l'Europa prosegue sotto pressione con Milano che cede l'1,5%
+++ Protesta tir, bloccato varco al porto di Napoli ++
+Il Btp Valore favorito, quasi 1,5 miliardi di controvalore in meno di 3 ore
+Unioncamere, 539mila entrate previste dalle imprese a ottobre, +3,7%
+L'educazione finanziaria sale in cattedra, Stazi incontra Fiorucci
+Bolt si rafforza in Italia, 'debutto a Roma entro l'anno'
+Il prezzo del gas sui massimi dal dicembre del 2022 a 89 euro
