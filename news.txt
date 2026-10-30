@@ -1,3 +1,6 @@
+Borsa: Tokyo, apertura in calo (-0,31%)
+Israele, risultati definitivi: schieramento Netanyahu in testa ma senza maggioranza
+Elicottero caduto, una sergente della Croce Rossa tra i morti
 E' morto Patrick Stewart, l'attore di Star Trek e X-Men
 Crosetto 'dolore immenso, nessuno dei feriti rischia la vita'
 Farnesina, '5 attivisti italiani fermati in Cisgiordania, chiesto rilascio immediato'
@@ -5,9 +8,6 @@ Leonardo Maria Del Vecchio, lavoro mio padre resti patrimonio Italia
 Mattarella, cordoglio per la morte dei militari nel tragico incidente in Bosnia
 Meloni, 'tragico incidente in Bosnia, profondo dolore per le vittime'
 Il petrolio chiude in calo a New York a 102 dollari
-Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'
-Dal ceco Strnad offerta da 30 miliardi per Delfin. No comment dalla holding
-Midterm, 'dipartimento di Giustizia spicca mandati su sfida in Alaska'
 Agenti IA negli studi legali, "ottimizzano i tempi e liberano risorse"
 Google affonda a Wall Street con conti deludenti e timori IA
 Meta avvisera' i genitori se il figlio fa ricerche Facebook sull'autolesionismo
@@ -72,9 +72,12 @@ Le cellule tumorali diventano zombie per sfuggire alla chemioterapia
 Arrivano i tatuaggi che si accendono con la luce
 Cosi' il virus Andes aggredisce e cellule umane
 La fine del Sistema Solare potrebbe essere piu' rapida del previsto
+Samuele Lodi e' il nuovo segretario generale della Fiom-Cgil
 Cassazione: 'L'ex Ilva spenga gli altiforni, pericolo grave per la salute'
 Lagarde lascia la Bce, mani libere in vista del voto in Francia
 Manovra: stretta sulla rivalutazione, per le pensioni alte mini recupero
+Orsini, 'associazioni dell'artigianato non difendano solo propri interessi e bilanci'
+Dal ceco Strnad offerta da 30 miliardi per Delfin. No comment dalla holding
 Manovra: sulla Borsa il peso della Tobin Tax, Assonime: 'Ora meno competitiva'
 Piano Lovaglio travolto dai soci, bocciate offerte Mps e fusione Mediobanca
 Borsa: Milano tiene con Prysmian e Leonardo, giu' Campari
@@ -83,7 +86,3 @@ Dai Paesi Ue rilascio di oltre 42 milioni di barili entro fine gennaio
 Lo spread tra Btp e Bund chiude in marginale calo a 114 punti base
 L'utile di Amplifon nel terzo trimestre cresce del 38,7% a 26,6 milioni euro
 CRONOLOGIA/Dall'Italsider ad ArcelorMittal, la lunga storia dell'Ilva
-Jorgensen, 'ci aspetta inverno difficile, prezzi elevati per gas e petrolio'
-Borsa: l'Europa conclude solida, Londra +0,3%
-Borsa: Milano chiude in rialzo, Ftse Mib +0,36%
-Il calendario della manovra, tutte le tappe fino all'approvazione
