@@ -1,21 +1,21 @@
-Incassi cinema, al vertice 'Dio ride' di Veronesi, scende al nono posto 'Je so' pazzo'
-Crans-Montana, Jacques Moretti non risponde a domande su riciclaggio
-Atterrato a Ciampino l'aereo con le salme dei militari morti in Bosnia
-Omicidio Pasolini, Procura Roma apre nuova indagine
-Fiamme in appartamento a Roma, due morti
-Borsa: Europa positiva alla vigilia del voto negli Usa, Milano +0,5%
-Il re del Belgio congela le dimissioni di De Wever e avvia consultazioni
-Sospetto attacco hacker ai supermercati in Svezia, freezer a 50 gradi
-Allarme in Germania, aghi e viti nascosti nei dolcetti di Halloween
-Borsa: Milano positiva (+0,2%), sale Unicredit, scivola A2a, giu' Prysmian
-Gary Marcus, 'boicottare l'IA finche' le aziende non la mettono a posto'
+Borsa: Europa corre col crollo del petrolio, Milano +1,2%
+Il Papa, 'la guerra strappa i bimbi alle madri, tacciano le armi'
+Mattarella e Meloni domani ai funerali dei militari morti in Bosnia
+Vannacci, parteciperei a cena per marcia su Roma, e' ricorrenza storica
+Vannacci, e' Meloni a favorire la sinistra chiudendo a Futuro Nazionale
+Pezeshkian, 'da Khamenei alcuni poteri al governo per trattare con gli Usa'
+'Da Khamenei alcuni poteri al governo per trattare con gli Usa'
+Petrolio a picco (-6,7%), ok di Khamenei a trattare con gli Usa
+Borsa: l'Europa riduce il rialzo, calano greggio e gas, Milano +0,2%
+Il gas scende sotto i 100 euro sulla piazza Ttf di Amsterdam
+Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi
+Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'
 Programmatore usa Claude per clonare software famosi, Anthropic corre ai ripari
 Un videogioco nato a Matera arriva sulla piattaforma Steam
-Crisi delle memorie, per Sam Altman 'grave' che ogni pc consumi le scorte limitate
+Sam Altman, 'Ram nei computer sottoutilizzata, meglio nei data center'
 L'illustratore del Gruffalo', 'valuto un'azione legale contro le aziende di IA'
 Cresce l'uso dell'IA per accedere alle news, ma gli utenti non la vogliono in redazione
 Onu, 'democratizzazione delle frodi con l'IA, che riduce le competenze tecniche'
-Cresce uso dell'IA per accedere alle news, e' al 9%, piu' richiesti gli approfondimenti
 Verso chip che imitano il cervello, dimenticano come i neuroni
 Authority Gran Bretagna indaga sulle nuove condizioni di Meta per i media
 Il Papa, 'armi e frontiere, mai delegare le decisioni all'IA'
@@ -45,9 +45,6 @@ Wp, scontro tra Zuckerberg e Meta per successione del colosso social in caso di 
 iPhone Duo con schermi rotti, Apple sostituira' i modelli difettosi
 Wsj, Broadcom e Anthropic perfezionano accordo di debito da 63 miliardi per l'IA
 Microsoft, piano di incentivi per l'esodo volontario fino a 60.000 dipendenti
-A Bologna sfida al pianoforte tra Roberto Prosseda e il robot TeoTronico
-Gli eredi di Elvis Presley contro Anthropic, 'ha usato 274 canzoni per addestrare IA'
-Anthropic si prepara a esordire a novembre sui listini di Wall Street
 Marte e Giove si inseguono nel cielo di novembre, e arriva la Superluna
 Australia puo' produrre satelliti con partner finlandese ReOrbit
 Una particella di antimateria intrappolata per mesi
@@ -69,9 +66,20 @@ Prima visita agli asteroidi di Giove, li ha raggiunti la sonda Lucy VIDEO
 Si lavora per portare in orbita 20.000 satelliti data center per l'IA
 Il Sistema Solare ha un nuovo possibile pianeta nano, e' oltre Plutone
 Gli abbracci resi memorabili dalle emozioni
+Carlo Bonomi riconfermato vicepresidente dell'associazione mondiale Fiere
+Wall Street apre positiva alla vigilia delle midterm, Dj a +0,76% e Nasdaq a +0,61%
+Borsa: l'Europa sale guardando all'Iran, petrolio e gas ko, bene i bond
+Uilp, dal taglio alla rivalutazione delle pensioni calo fino a 1.314 euro
+Domani apre Ecomondo a Rimini, 1800 espositori sull'economia circolare
+Accordo Unicredit-Icici Bank per crescita delle imprese tra Europa e India
+Top Manager Reputation, a ottobre Carlo Messina torna in vetta
+Borsa: Milano sale (+0,5%), corrono Buzzi e Lottomatica, frena A2a
+Cr Orvieto, cala utile nove mesi, aumenta credito a territorio
 Marsiaj (Confindustria), 'costruire alleanze, sullo Spazio a dicembre missione in Usa'
+Borsa: Europa positiva alla vigilia del voto negli Usa, Milano +0,5%
 O' Leary, 'per Ryanair oltre 300 milioni di passeggeri nel 2034'
 L'indice Pmi manifatturiero dell'Italia scende a 49,4 a ottobre
+Borsa: Milano positiva (+0,2%), sale Unicredit, scivola A2a, giu' Prysmian
 David Knibbe nuovo amministratore delegato di Euronext dal maggio del 2027
 Lollobrigida: dal 4 novembre 500 euro a oltre 1 milione di famiglie
 Lmdv ci riprova, offerta per acquistare tutte le quote di Delfin
@@ -79,12 +87,3 @@ Borsa: Europa debole in apertura, Parigi -0,13%, Londra -0,36%
 Borsa: Milano apre in lieve rialzo, +0,04%
 Confesercenti: "Allarme caro vita, in questo trimestre a rischio consumi per 1,4 miliardi'
 Borsa: Asia contrastata, occhi sul voto Usa, Tokyo -0,33%
-Lo spread tra Btp e Bund tedeschi apre in calo sotto i 118 punti
-L'utile semestrale di Ryanair scivola del 15% a 2,15 miliardi
-Leonardo Maria Del Vecchio ci riprova, inviata un'offerta per tutte le quote, da Delfin 'no comment'
-Euro in aumento, scambiato a 1,1187 dollari
-Il gas scende a 101,45 euro sulla piazza Ttf di Amsterdam
-Prezzo dell'oro in aumento, Spot scambiato a 3.907 dollari
-Prezzo del petrolio in calo, Wti scambiato a 100,68 dollari
-Binance, gli utenti prelevano oltre 3 miliardi di dollari dopo l'attacco hacker
-Borsa: Tokyo, apertura in calo (-0,44%)
