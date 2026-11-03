@@ -1,3 +1,6 @@
+Witkoff, 'Usa medieranno colloqui Abu Dhabi a livello tecnico tra Russia e Ucraina'
+Corte Suprema Usa boccia richiesta Trump su blocco 20.000 voti in California
+Trump, 'prezzi del petrolio crollano, un accordo con l'Iran puo' avvenire!'
 Volano a 17 miliardi i ricavi trimestrali di Anthropic, 23 di perdite
 Trump, 'le midterm piu' importanti della storia, dai dem candidati jihadisti'
 Il petrolio chiude in forte calo a New York, a -7,45%
@@ -5,9 +8,6 @@ Domani a Palazzo Chigi riunione con Mantovano e i Servizi su attacchi hacker
 Attacchi hacker ai supermercati, si muove anche il Copasir
 Attacchi hacker a sistemi refrigerazione dei supermercati della Sicilia
 Netanyahu, 'aperto al dialogo per un ampio governo nazionale'
-Attacchi hacker ai supermercati, alert Agenzia cyber in Italia
-Zelensky, 'attacco devastante su Komysuhvakha, almeno 18 morti'
-Violati sigilli della casa in cui e' stata uccisa Pamela Genini
 Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi
 Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'
 Programmatore usa Claude per clonare software famosi, Anthropic corre ai ripari
@@ -65,9 +65,9 @@ Prima visita agli asteroidi di Giove, li ha raggiunti la sonda Lucy VIDEO
 Si lavora per portare in orbita 20.000 satelliti data center per l'IA
 Il Sistema Solare ha un nuovo possibile pianeta nano, e' oltre Plutone
 Gli abbracci resi memorabili dalle emozioni
+Leonardo Maria Del Vecchio rilancia, 22 miliardi da Citi per le quote Delfin. No da quattro soci
 Stretta su rc auto, incrocio dei dati per scovare chi non rispetta obbligo
 Il petrolio chiude in picchiata, a New York perde oltre il 7%
-Leonardo Maria Del Vecchio rilancia, 22 miliardi da Citi per le quote Delfin
 Unirima, settore riciclo plastica affronta crisi senza precedenti
 Il petrolio cede piu' del 7% e il gas il 10% sui negoziati Usa-Iran
 Byd accelera in Italia, a ottobre e' settima tra i marchi
@@ -87,4 +87,3 @@ Petrolio a picco (-6,7%), ok di Khamenei a trattare con gli Usa
 Uilp, dal taglio alla rivalutazione delle pensioni calo fino a 1.314 euro
 Domani apre Ecomondo a Rimini, 1800 espositori sull'economia circolare
 Borsa: l'Europa riduce il rialzo, calano greggio e gas, Milano +0,2%
-Il gas scende sotto i 100 euro sulla piazza Ttf di Amsterdam
