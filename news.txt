@@ -1,14 +1,19 @@
-Ex Ilva, al via lo spegnimento degli altiforni
-Q8 Italia riduce del 20% il prezzo di gasolio e benzina per agricoltura e pesca
-Borsa: Milano dimezza il calo, Ftse Mib -0,38%
-Polizia postale avvia indagini su attacchi hacker a supermercati italiani
-Salvini, gli alleati rispettino le priorita' della Lega, a partire dalle pensioni
-Conte, il reddito di cittadinanza va rivisto alla luce dell'esperienza
-Gozzi, 'decisione non ancora presa su ex Ilva, quando lo sara' la comunicheremo'
-Salvini, dei tagli alla scuola non sapevo niente, ora faremo delle proposte
-In settimana riunione Nato-Usa-E3 a Bruxelles sull'Ucraina
-Kiev, 'raid russi su centrali in 9 regioni, tre sono state spente'
-Snap chiude una causa sulla dipendenza da social, accordo con due ragazze negli Usa
+Benzina record negli Usa per l'Election Day a 4,15 dollari a gallone
+Intese sull'autonomia entro gennaio, via libera dalla Camera
+Il Papa, 'la vera ricchezza non e' nell'accumulo ma nella condivisione'
+Borsa: Europa in ordine sparso, listini Usa contrastati, Milano +0,1%
+Pillon, 'sulla famiglia del bosco decisione nelle prossime settimane'
+Re Carlo al Commowealth, 'orrore e vergogna per lo schiavismo'
+Zattera con una gru si ribalta e uccide un operaio
+Borsa: Milano gira in positivo (+0,35%), balzo di Lottomatica e Ferrari
+Wall Street apre contrastata, Dj -0,37%, Nasdaq +0,44%
+Trump, a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu
+OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale
+Testati nello spazio i chip di Google per l'IA
+Premio Lagrange a Dashun Wang, 'l'Ia puo' rendere la scienza piu' conformista'
+Avvocato generale Corte Ue, uso di articoli attraverso IA puo' violare diritti editori
+'Niente IA e smartphone', al corso di letteratura piu' duro di Harvard c'e' la fila
+Snap chiude causa sulla dipendenza da social, accordo con due ragazze negli Usa
 L'IA di Anthropic e' vicina alla capacita' di auto-migliorarsi
 Cammino Santa Barbara, arrivano app, Mi'nera Card digitale e Street View
 Conti trimestrali di Apple oltre le attese, ricavi e utili sostenuti dall'iPhone
@@ -43,8 +48,7 @@ Eu Kids Act, Stanzione 'tutela dei minori senza sacrificare privacy e autonomia'
 Media, avrebbe spinto ragazza a sospendere farmaci vitali, in Usa causa contro ChatGpt
 La Cina verso la leadership nell'IA entro il 2030
 Uso etico dell'Ia, approvata una legge in Lombardia
-Nvidia investira' 3 miliardi di dollari in Meta
-Piras (Sapienza), 'gli studi classici restano fondamentali anche con l'IA'
+Todde su Einstein Telescope, 'lavoro di squadra col governo porta risultati'
 Il tempo non ha bisogno di orologi, lo indica un universo in miniatura
 Verso il lancio dei satelliti privati per l'osservazione della Terra
 Possibile prevedere El Nino con un anno di anticipo
@@ -68,23 +72,18 @@ Il piu' grande albero genealogico cellulare di un mammifero
 Non sono state le comete a portare i mattoni della vita sulla Terra
 L'aeronautica militare Usa testa i rifornimenti via razzo con SpaceX
 Si lavora alle mappe che raccontano il legame tra uomo e cielo
-Confcom, con price cap carburanti vendite indipendenti -29%, 30mila posti a rischio
-Intesa oltre le attese, l'utile dei nove mesi sale a 8,2 miliardi
-Ddl concorrenza, commercialisti: 'Non allargare deposito bilanci a consulenti lavoro'
-Ferrari, nel terzo trimestre +7% ricavi e utile netto +13%
-Lollobrigida, grazie a Q8 per aver accolto richiesta governo sul carburante
-Lufthansa, ricavi record nel terzo trimestre a 12,2 miliardi (+9%)
-Tata Motors, Iveco Group continuera' ad avere la sede a Torino
-Studio sull'Italia, proprieta' opaca aumenta i rischi criminali nel calcio
-Iea, Ue affronta inverno con stoccaggi gas piu' bassi dal 2013
-Von der Leyen, 'la chiusura di Hormuz e' costata all'Ue 127 miliardi in piu''
-Von der Leyen: 'La chiusura di Hormuz e' costata all'Ue 127 miliardi in piu''
-L'Italia taglia le emissioni la meta' di quello che dovrebbe
-Siccita' causa del 54% delle perdite in agricoltura in Italia
-Italia paese Ue che consuma piu' acqua per uso civile e industriale
-In Italia nel 2025 7 Gw di nuove rinnovabili, ne servirebbero 10
-Calano auto diesel e benzina, aumentano ibride ed elettriche
-Italia leader europea del riciclo, 86% rifiuti contro media Ue 41%
-Disney prepara migliaia di licenziamenti, punta a taglio costi del 20%
-Schaeffler taglia 3460 posti in Ue, e chiude 4 stabilimenti in Germania
-Borsa: Europa in calo, occhi alle elezioni Usa di mid term
+Rally di Como, si corre il 7 e l'8 novembre. 21 vetture al via
+Unicredit completa internalizzazione assicurativo vita, 46 miliardi di riserve
+Sileoni, governo valuti conseguenze Manovra su banche, a rischio rinnovo contratto
+Vigilanza alta in tutta Italia con l'attacco degli hacker ai supermercati
+Uil, con pensione anticipata a 64 anni si perdono 5mila euro anno rispetto a vecchiaia
+Aumentano del 9% le bollette del gas dei vulnerabili. Arera: 'Pesano le quotazioni'
+Bdm Banca, utile nove mesi a 29,42 milioni di euro
+Il petrolio in calo a New York a 95,14 dollari
+Intesa Fincantieri-Leonardo per rafforzare la jv Orizzonte sistemi navali
+Il gas scende sotto i 90 euro sulla piazza Ttf di Amsterdam
+Trump: a fine anno stop agli aiuti militari a Israele, accordo con Netanyahu
+Messina, convinti della solidita' del progetto industriale per Mps
+Rimini prima per crescita, al Nord pro-capite quasi doppio del Sud nel 2025
+Protocollo Consob, Bankitalia, Ivass su soluzioni alternative delle controversie
+Mariani (Leonardo), 'per autonomia strategica Ue servono tempo e investimenti'
