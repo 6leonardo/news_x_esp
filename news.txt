@@ -1,13 +1,13 @@
-Fisico investito a Roma, si e' costituito il conducente del monopattino
-Nvidia in calo a Wall Street dopo indagine su Huang, -4,37%
-Von der Leyen, 'aumenteremo sorveglianza su Mar Nero attraverso Copernicus'
-Von der Leyen, 'tema della sicurezza europea solo dopo cessate il fuoco in Ucraina'
-Trump insinua dubbi sulle elezioni, 'qualcuno crede che siano state oneste?'
-Il Papa, lavoro precario e instabilita' distruggono le famiglie
-Seduta inaugurale della Knesset domani alle 16,00 locali
-Folla record per la messa del Papa a Buenos Aires, 2 milioni e mezzo
-Giorgetti, soddisfatti per l'attivazione della Nec dell'Italia
-Corte dei Conti, 70% entrate temporanee, oneri impliciti per prossime manovre
+Il Papa, 'la disoccupazione e' un dramma, ferisce la dignita''
+Il Papa vede vittime di abusi, 'rafforzare la protezione'
+Il petrolio crolla su possibili progressi in Medio Oriente, Brent -5,6%
+Meloni, dal decreto Bollette benefici importanti ma serve tempo per gli effetti
+Il repubblicano Massie formalizza alla Camera mozione per impeachment Hegseth
+Ok al dl Bollette. Pichetto, 15 euro in meno al megawattora
+Barrot, 'i Pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni Ue'
+Tajani, 'attacchi ibridi da Iran? Quelli contro Italia sono di hacker filorussi'
+Il gas in ampio ribasso (-3,9%) a 82,2 euro al Megawattora
+Tajani a G7, 'uniti per dare un segnale forte a chi cerca il caos in Europa'
 'Trump dittatore' e 'Covid bufala' tra le parole evitate dalla tastiera dell'iPhone
 Sicurezza aerea, le antenne cellulari diventano radar per intercettare i droni
 Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'
@@ -30,10 +30,6 @@ Snap chiude causa sulla dipendenza da social, accordo con due ragazze negli Usa
 L'IA di Anthropic e' vicina alla capacita' di auto-migliorarsi
 Cammino Santa Barbara, arrivano app, Mi'nera Card digitale e Street View
 Conti trimestrali di Apple oltre le attese, ricavi e utili sostenuti dall'iPhone
-Anthropic, i ricavi del terzo trimestre balzano a 17 miliardi, perdita a 23,3 miliardi
-Gary Marcus, 'i cittadini boicottino l'IA, OpenAI potrebbe crollare'
-Programmatore usa Claude per clonare software famosi, Anthropic corre ai ripari
-Un videogioco nato a Matera arriva sulla piattaforma Steam
 Energia, completato il primo braccio della macchina Dtt per la fusione
 Risvegliate le cellule del cuore per riparare i danni dell'infarto
 Premiata la ricerca sugli effetti dei virus sul cervello
@@ -56,13 +52,26 @@ E' rientrato a Terra il telescopio spaziale Swift, bruciato nell'atmosfera
 C'e' un legame inatteso tra tumore del colon-retto nei giovani e placenta
 Una stella morta prefigura il futuro del Sistema solare
 Recuperato il sangue di un dinosauro, da ossa di 115 milioni di anni fa
+Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'
+Su Bpm l'ultimo giro di risiko, il nodo del governo e dell'assemblea
+Credit Agricole propone le nozze a Bpm, ai soci 1 miliardo e premio del 20%
+Corsa a due per l'ex Ilva, Arvedi sfida gli indiani di Jindal
+Borsa: Milano la migliore in Europa con il credito, Banco Bpm +10%
+Lo spread tra Btp e Bund chiude in calo a 103 punti base
+Borsa: l'Europa chiude positiva, Londra +1%
+Banco Bpm conclude in corsa in Piazza Affari, +10%
+Borsa: Milano chiude in forte rialzo con le banche, Ftse Mib +2,69%
+VTech compie 50 anni, dal primo pc parlante al 'diario segreto' interattivo
+Ania, nuove misure non condivise, prevedibilita' regole riguarda credibilita' Paese
+Cariplo in campo per le persone in esecuzione penale, stanziati 33 milioni
+Nvidia in calo a Wall Street dopo indagine su Huang, -4,37%
 Il prezzo medio dell'elettricita' in Italia a 294 euro, in Germania e' a 351
 MiTur, l'Italia si conferma leader in Europa, ad agosto quasi 99 milioni di presenze
+Giorgetti, soddisfatti per l'attivazione della Nec dell'Italia
 Borsa: Milano corre (+2,3%) con le banche, l'Europa positiva dopo Wall street
-Corte dei Conti: 'Il 70% delle entrate temporanee, oneri impliciti per le prossime manovre'
+La Corte dei Conti: 'Il 70% delle entrate e' temporaneo, pesa sulle prossime manovre'
 Subdued, accelera crescita in Asia e punta sugli Usa
 L'Ue ha attivato la clausola sulla flessibilita' dell'Italia per difesa ed energia
-Due offerte d'acquisto per l'ex Ilva, da Jindal e dall'italiana Arvedi
 Facile.it, possibili aumenti del 51% per le bollette della luce rispetto al 2025
 Confindustria: torna la Settimana d'Impresa, racconta i valori del sistema produttivo
 Dombrovskis: 'Deficit elevati e debiti in aumento, serve prudenza'
@@ -76,11 +85,3 @@ Borsa: il risiko bancario spinge Milano, balzo di Banco Bpm
 L'industria italiana tiene, verso massimo storico a 1.168 miliardi euro
 Mimit, prezzo benzina stabile a 2,000 euro, gasolio in leggero aumento a 2,232
 Borsa: l'Europa in rialzo, giu' il petrolio e attesa per l'inflazione Usa
-Lollobrigida, 80% fondi ColtivaItalia andranno al Sud contro spopolamento campagne
-Assiom Forex, congresso annuale a Roma il 19-20 febbraio, Bcc Iccrea main partner
-Orcel, dopo Bpm in Italia cambiato rotta, piano crescita organica
-Borsa: Milano in rialzo con le banche, vola Bpm
-Salta l'accordo tra Lendlease e Bizzi su Santa Giulia (Risanamento)
-Banco Bpm in Borsa +9,2% con proposta di fusione di Credit Agricole
-Borsa: l'Europa apre debole, tra trimestrali e investimenti per l'Ia
-Due offerte per l'ex Ilva, sono Jindal e l'italiana Arvedi
