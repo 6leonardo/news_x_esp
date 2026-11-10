@@ -1,13 +1,13 @@
-Procura Livorno, chiesta l'archiviazione dell'inchiesta su Moby Prince
-Vacanze sulle neve, fatturato sale a 12.8 miliardi +5.2% ma calano presenze italiane
-Svimez, il sud cresce ancora piu' del centro-nord ma frena nel 2027
-Israele, leader Change Bloc annunciano nomina concordata per presidenza Knesset
-Europa-Usa, 'garanzie di sicurezza credibili a Kiev cruciali per accordo'
-Rubio, bene i colloqui ad Abu Dhabi ma la strada e' ancora lunga
-Il petrolio ancora in calo, Brent perde il 3% e scende sotto 90 dollari
-Abi, norme Manovra su crediti superbonus contrasta con sentenze Consulta
-In vigore nuovo taglio accise sul diesel, -4,9 centesimi fino al 23 novembre
-Abi,su banche dal 2025 misure fiscali per 22 miliardi di euro
+Zelensky, 'colloqui ad Abu Dhabi costruttivi, parlato di garanzie di sicurezza'
+Nel ddl concorrenza torna il diritto alla doggy bag, emendamento della Lega
+San Benedetto licenzia 120 dipendenti
+Borsa: Milano rallenta (+1%) con l'Europa dopo l'avvio di Wall Street
+Nvidia ancora in calo a Wall Street, cede il 4,3%
+Wall Street apre in calo, Dj a -0,46% e Nasdaq a -0,96%
+Viminale, da hacker allarmi infondati per destabilizzare
+Borghi, su decreto legge aiuti a Kiev per 2027 c'e' contrarieta' politica Lega
+Ocse, disoccupazione settembre stabile al 5%, Italia 6,3%
+Cipollone, 'fondamentale concludere negoziati per euro digitale entro l'anno'
 Meta estende il rilevamento dell'eta' tramite IA per gli adolescenti su Instagram
 YouTube tornera' nelle classifiche Billboard a partire dal 2027
 'Trump dittatore' e 'Covid bufala' tra le parole evitate dalla tastiera dell'iPhone
@@ -23,12 +23,7 @@ Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l
 Al via il Premio De Sanctis su editoria, informazione, creativita' e IA
 Crescita record del mercato dei Big data in Italia nel 2026, 5 miliardi di euro e +24%
 Google disattivera' l'intelligenza artificiale per le scuole Usa
-OpenAI nomina ex segretario esercito Usa per ruolo legato a sicurezza nazionale
-Testati nello spazio i chip di Google per l'IA
-Premio Lagrange a Dashun Wang, 'l'Ia puo' rendere la scienza piu' conformista'
-Avvocato generale Corte Ue, uso di articoli attraverso IA puo' violare diritti editori
-'Niente IA e smartphone', al corso di letteratura piu' duro di Harvard c'e' la fila
-I prezzi del petrolio piu' alti stanno facendo calare le emissioni di CO2
+Aumenta il prezzo del petrolio, calano le emissioni di CO2
 L'atmosfera puo' eliminare il metano, e' successo 20mila anni fa
 La Terra ha una nuova mini-luna, restera' fino a dicembre
 Energia, completato il primo braccio della macchina Dtt per la fusione
@@ -49,6 +44,23 @@ Artemis II ha perturbato l'atmosfera con possibili effetti su segnali Gps
 Tecnologie quantistiche, l'Italia in prima fila in Europa
 Regole prevedibili anche per il tumore piu' aggressivo del cervello
 Nei diamanti la firma chimica della Terra di 2,5 miliardi di anni fa
+Rapporto, studi legali in Usa sempre piu' nel mirino di attacchi cyber
+L'Italia si veste di storia, 110 iniziative per la 2/a giornata degli abiti storici
+Riv-X debutta in Italia, acquista un orologio con scambio tra stablecoin ed Euro
+San Benedetto licenzia 120 dipendenti. 'Colpa dell'aumento di costi energetici e materie prime'
+Gruppo Sella, utile 9 mesi sale a 204 milioni, crescono raccolta e impieghi
+L'inflazione sale a ottobre negli Usa oltre le attese, +0,4% mensile
+Nel ddl concorrenza proroga di un anno delle tutele graduali nell'energia
+Heineken, nel 2025 contributo a Pil Italia di 4,5 miliardi, secondo mercato dopo Uk
+Il petrolio e' in calo a New York a 84,38 dollari
+Borsa: Europa lima i guadagni coi futures Usa dopo l'inflazione sopra le attese
+Fs Engineering e Sogesid partner in progetti infrastrutturali in Italia e all'estero
+Lollobrigida, la pizza? In questo momento russi ne stanno facendo di cose sbagliate
+Anthropic punta a una valutazione di 1.400 miliardi nell'ipo
+Tarquini (Confindustria), 'la sfida del Sud e' trasformare crescita in produttivita''
+Borsa: Milano (+1,4%) forte con l'Europa in attesa dei prezzi Usa e di Wall street
+Il surplus cinese supera mille miliardi con un mese di anticipo rispetto al 2025
+Mossa (Banca Generali), 'grande determinazione su obiettivi fine anno'
 L'utile di Banca Generali nei 9 mesi record a 384,1 milioni
 Lane (Bce), prudente aumentare i tassi a dicembre se dati non cambiano
 Cortina ancora regina della neve seguita da Madonna di Campiglio e Bormio
@@ -56,10 +68,16 @@ Il 60% dei consumi energetici dell'industria e' per produrre calore
 Manovra, l'Inps: 'A gennaio rivalutazione fino a 4 volte il minimo, poi il conguaglio'
 Mazzoncini, 'vendiamo l'energia rinnovabile a circa la meta' del Pun'
 A2a chiude i 9 mesi con ricavi oltre 13,7 miliardi di euro, +35%
+Vacanze sulle neve, fatturato sale a 12.8 miliardi +5.2% ma calano presenze italiane
+Svimez, il sud cresce ancora piu' del centro-nord ma frena nel 2027
 Doris (Mediolanum), guardiamo a futuro investendo in leve decisive
 First Cisl, in nove mesi utili grandi banche a 22,5 miliardi, 'benefici solo per soci'
+Il petrolio ancora in calo, Brent perde il 3% e scende sotto 90 dollari
 L'utile di Mediolanum record, nei 9 mesi +16% a 843 milioni
+Abi, norme Manovra su crediti superbonus contrasta con sentenze Consulta
+In vigore nuovo taglio delle accise sul diesel, -4,9 centesimi fino al 23 novembre
 Borsa: l'Europa prosegue positiva in attesa dell'inflazione Usa, Milano +1,6%
+Abi,su banche dal 2025 misure fiscali per 22 miliardi di euro
 Cop31, arriva la coalizione per gli aiuti all'elettrificazione
 Pinko, 'Black Friday? No grazie'
 Borsa: Milano forte (+1,3%) guida l'Europa, bene l'hi tech e le banche
@@ -67,24 +85,4 @@ Codacons, da Decreto Bollette risparmio di 27-37 euro annui a famiglia
 Mimit, prezzo gasolio sale a 2,240 euro al litro
 Borsa: l'Europa parte in crescita, Londra +0,6%
 Borsa: Milano apre in rialzo, Ftse Mib +0,96%
-Pichetto: "Dal Decreto Bollette una riduzione del 4-5% del prezzo finale dell'energia"
 Euro poco mosso in avvio di giornata a 1,1240 dollari
-Il gas parte in calo (-2%) a 80,8 euro al Megawattora
-Lo spread tra Btp e Bund apre in marginale rialzo a 104 punti base
-Borsa: l'Asia rimbalza con Wall street e l'hi tech, Tokyo +2,8%
-Oro in rialzo a 4.119 dollari l'oncia
-Petrolio ancora in calo, Brent a 90,8 dollari al barile (-1,81%)
-Borsa: Tokyo guadagna oltre il 3% in apertura, il Nikkei torna sopra quota 60mila punti
-Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'
-Il petrolio crolla su possibili progressi in Medio Oriente, Brent -5,6%
-Ok al dl Bollette. Pichetto, 15 euro in meno al megawattora
-Su Bpm l'ultimo giro di risiko, il nodo del governo e dell'assemblea
-Credit Agricole propone le nozze a Bpm, ai soci 1 miliardo e premio del 20%
-Corsa a due per l'ex Ilva, Arvedi sfida gli indiani di Jindal
-Borsa: Milano la migliore in Europa con il credito, Banco Bpm +10%
-Il gas in ampio ribasso (-3,9%) a 82,2 euro al Megawattora
-Lo spread tra Btp e Bund chiude in calo a 103 punti base
-Borsa: l'Europa chiude positiva, Londra +1%
-Banco Bpm conclude in corsa in Piazza Affari, +10%
-Borsa: Milano chiude in forte rialzo con le banche, Ftse Mib +2,69%
-VTech compie 50 anni, dal primo pc parlante al 'diario segreto' interattivo
