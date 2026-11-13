@@ -1,13 +1,14 @@
-Borsa: Milano apre debole (-0,15%)
-Lo spread tra Btp e Bund apre in lieve rialzo a 105 punti
-Borsa: l'Asia chiude debole, pesano i timori per l'Ia
-Il prezzo del gas apre in rialzo a 96,65 euro al megawattora
-L'utile di Unipol sale a 1,39 miliardi (+12,4%), premi per 12,8 miliardi
-Generali, nei nove mesi 76,5 miliardi di premi e 3,6 miliardi di utile (+12%)
-Mosca, 'la scorsa notte 467 droni ucraini diretti verso la capitale'
-Microsoft, le misure per risolvere falle Outlook non funzionano 'come previsto'
-Media, Lutnick testimoniera' sul caso Nvidia prima del Congresso
-007 Usa 'non sono sicuri che Alice Huang fosse una spia della Cina'
+Pillon, 'rigettato il ricorso della famiglia del bosco'
+La Russa, tra i partiti nessuna intesa su Vigilanza Rai, decideremo io e Fontana
+Cremlino, 'Europa coinvolta nei negoziati quando chiarira' di volere la pace'
+Microsoft, 'servizi in miglioramento, ripristino a fasi'
+Kallas contro il modello Kushner-Witkoff, 'noi abbiamo istituzioni'
+Aggressoni sessuali, Ge'rard Depardieu rinuncia al processo d'appello
+Kallas, 'discutere ora di sicurezza europea significa cadere nella trappola russa'
+++ Proseguono disservizi di Microsoft, colpiti governi e aziende in tutto il mondo ++
+Microsoft, 'non a conoscenza di attivita' malevola' su interruzione Outlook
+Esplode auto a Mosca, 'ferito il consigliere dell'ex premier ucraino Azarov'
+Politecnico Milano: 'Nessun attacco hacker ai servizi di Microsoft, possibile guasto'
 Persistono i disservizi Microsoft, ma in via di risoluzione
 Meta chiude i profili social di Russell Brand dopo la condanna per stupro
 >ANSA-FOCUS/ I chatbot sostituiranno i genitori? 'IA fa solo finta di comprendere'
@@ -31,6 +32,8 @@ Primo verdetto Ue sul feed 'Per Te' di TikTok, 'viola il Dsa'
 Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA
 WhatsApp, gli inviti agli eventi ora funzionano anche senza un account
 A Bari la quinta edizione della conferenza italiana su Big Data e Data Science
+Per Starship primo test che prevede il recupero di navetta e razzo
+Firmato il contratto sulla nuova missione italiana per la navigazione lunare
 L'allattamento materno riscrive la storia economica a partire dal 1500
 Il meccanismo che rende le ondate di calore piu' intense
 Anche i cactus sono minacciati dal riscaldamento climatico
@@ -60,30 +63,26 @@ Luna, dalla Nasa un contratto da 10 miliardi di dollari per la futura base
 Il Dna di 30mila anni fa racconta i legami tra le popolazioni europee
 Il tempo si dilata quando il cervello apprende un nuovo movimento
 Una Terra virtuale per trovare la firma della vita su altri pianeti
-Cosi' il tumore alla prostata sfugge all'immunoterapia
-Dopo 6 secoli la mummia del signore di Monza racconta il ferimento nell'assedio
-La placca ionica si sta frantumando sotto la Calabria meridionale
+Palermo (Acea), 'risultati mostrano la solidita' del nostro modello industriale'
+Banco Bpm in Borsa +1,7, si guarda a Credit Agricole
+Acea, utile 9 mesi sale a 263 milioni (+14%), ricavi +5%
+Istat, a settembre prezzi all'importazione +9,6% su anno, +1,9% su mese
+L'educazione finanziaria si rafforza a scuola, firmato il Protocollo Consob-Mim
+Borsa: l'Europa poco mossa, lente sulle banche centrali
+Esperto, 'caso Microsoft dimostra i rischi della concentrazione dei servizi digitali'
+Borsa: Pirelli e Banca Generali entrano nel Ftse Mib
+Ance, trovare in manovra risorse per caro materiali, rischio blocco 13mila cantieri
+Ance al governo: 'Trovare in manovra risorse per caro materiali, rischio blocco 13mila cantieri'
+Mimit, in calo prezzi carburanti, benzina a 1,969 euro
+Borsa: Milano incerta con l'Europa, giu' Fincantieri
+Borsa: l'Europa apre fiacca, timori per gli effetti Nvidia sull'Ia
+Borsa: Milano apre debole (-0,15%)
+Lo spread tra Btp e Bund apre in lieve rialzo a 105 punti
+Borsa: l'Asia chiude debole, pesano i timori per l'Ia
 Le quotazioni del bitcoin sotto la soglia dei 70mila dollari, prima volta da agosto
 Il prezzo dell'oro in crescita a 3899 dollari l'oncia
 Il prezzo del petrolio prosegue in rialzo, Wti a 88,9 dollari +0,9%
 Euro parte in lieve rialzo a 1,107, lo yen oscilla su soglia 160
-'Dal governo norme sudamericane', e' scontro Messina-Meloni
-Giorgetti apre sulla manovra: 'I giochi non sono fatti ma trovate le coperture'
-Bcc Iccrea, utile 9 mesi sale a 1,65 miliardi
-Fnm chiude i 9 mesi con oltre 521 milioni di ricavi, utile +6,2%
-Webuild, nuovi ordini 11,1 miliardi da inizio anno, confermata guidance 2026
-A Pomigliano la cinese Leapmotor per le e-car di Stellantis
-Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente
-Enel, acconto sul dividendo 2026 sale a 0,245 euro per azione (+7% sul'acconto 2025)
-Banco Bpm avvia approfondimenti sulla proposta dell'Agricole
-Lo spread tra Btp e Bund chiude in rialzo a 104,4 punti base
-Enel, utile di Gruppo sale nei 9 mesi ma continua il calo dell'Italia
-Borsa: l'Europa chiude in generale rialzo, Francoforte +0,41%
-Borsa: Milano chiude a- 0,27%, Technoprobe giu' su tonfo Nvidia
-Sanlorenzo chiude i 9 mesi con oltre 711 milioni di ricavi e 79 di utile
-Giorgetti, la prudenza sui conti e' condizione per avere spazi per difficolta'
-Fmi, l'Italia compensi ogni nuova misura contro il caro energia, progressi impressionanti sul debito
-Filosa, 'Leapmotor ci aiutera' su impianti europei, uno anche italiano'
-Borsa: l'Europa sempre cauta con il tech in affanno, corre il gas
-Equita chiude i 9 mesi con ricavi e utile in crescita dell'8%
-Wall Street apre contrastata, Dj a +0,14% e Nasdaq a -1,44% con l'effetto Nvidia
+Il prezzo del gas apre in rialzo a 96,65 euro al megawattora
+L'utile di Unipol sale a 1,39 miliardi (+12,4%), premi per 12,8 miliardi
+Generali, nei nove mesi 76,5 miliardi di premi e 3,6 miliardi di utile (+12%)
