@@ -1,3 +1,4 @@
+Operazione della Polizia contro la pedopornografia online, sei arresti
 Cnn, 'ancora 700 aerei nei cieli Usa, piu' di 3.000 voli cancellati'
 Casa Bianca, 'Trump discutera' di Iran con Xi e Putin, non di Ucraina'
 Eurocontrol, 'sospeso tutto il traffico aereo diretto negli Usa'
@@ -7,7 +8,6 @@ Microsoft: 'nessuna indicazione su blocco voli Usa legato a disservizi Outlook'
 'Blocco aereo Usa per stop temporaneo sistemi tlc. Non e' nuovo 11/9'
 S&P conferma i rating BBB+/A-2 sull'Italia, outlook positivo
 Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang
-Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie
 'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down
 Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft
 All'Ai Bar drink testuali per stimolare la creativita', i 'clienti' sono chatbot
@@ -33,6 +33,8 @@ Sicurezza aerea, le antenne cellulari diventano radar per intercettare i droni
 Il Nobel Hinton, 'forse staremmo meglio senza IA, temo un grave incidente'
 Dai colossi del web un impegno a regolare lo 'scraping' dell'IA dai siti
 Ft, 'per gli 007 Usa il Ceo di Nvidia aveva una relazione con un spia cinese'
+Nel cervello una riserva di staminali per rimodellare i circuiti
+Nello spazio la prima struttura costruita da un robot VIDEO
 Dalle batterie di sabbia al cemento con argilla, le 10 tecnologie del futuro
 Per Starship primo test che prevede il recupero di navetta e razzo
 Firmato il contratto sulla nuova missione italiana per la navigazione lunare
@@ -63,8 +65,8 @@ Risvegliate le cellule del cuore per riparare i danni dell'infarto
 Premiata la ricerca sugli effetti dei virus sul cervello
 Luna, dalla Nasa un contratto da 10 miliardi di dollari per la futura base
 Il Dna di 30mila anni fa racconta i legami tra le popolazioni europee
-Il tempo si dilata quando il cervello apprende un nuovo movimento
-Una Terra virtuale per trovare la firma della vita su altri pianeti
+Al via a Genova Best, summit di Blue Media dedicato alla economia del mare
+Microsoft, ripristinati tutti i servizi dopo il blackout globale
 S&P conferma il rating sull'Italia: 'La crescita superera' le stime'. Giorgetti: 'E' la strada giusta'
 Borsa: Milano cauta con l'Europa in attesa della Fed, scivola Fincantieri
 Il gas in calo (-3%) a 89 euro al Megawattora
@@ -85,4 +87,3 @@ Microsoft apre a -1,48% al Nasdaq, pesano i disservizi su Outlook
 Le pmi di Confindustria: 1200 imprenditori al forum, alla politica chiediamo un patto
 Agricole, discussioni con Bpm con determinazione, forte potenziale
 Il petrolio in rialzo a New York, a 89,26 dollari
-Cub e Sgb aderiscono a sciopero 20 novembre contro carovita ed economia guerra
