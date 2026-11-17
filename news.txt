@@ -1,14 +1,18 @@
-Cnn, 'interruzione alla rete interna della Nsa, nessun segno cyberattacco'
-Zelensky agli alleati, 'Patriot subito in cambio di nuovi missili'
-Gip, da indagini nuove prospettive su 'cabina di regia' dietro stragi '92
-Danimarca, 'molti Paesi dicono di aiutare Kiev ma i dati calano'
-Roggero condannato, giudici 'da lui deliberata aggressione'
-Rutte, 'bene i negoziati ma Kiev sia il piu' forte possibile al fronte'
-Microsoft, un 'bug' nascosto da luglio ha causato il grande disservizio
-Schlein, Valditara ossessionato da me e dal Pd, piuttosto ritiri tagli a scuola
-M5s blocca lavoro comune su emendamenti campo progressista per la manovra
-Omicidio Bergamini, appello conferma condanna a 16 anni per Interno'
+Donna soffocata dal marito in casa nella Bergamasca
+Fbi avviso' il 13/11, strumenti IA per condurre cyberattacchi
+Apple segnala problemi per alcuni dei suoi servizi
+Oltre 250 scienziati contro metodi commissione Covid, lettera a presidenti Camere
+Emendamento al dl sicurezza, divieto di social agli under 13
+Il prezzo del gas poco mosso a 84,73 euro al megawattora
+Fonti Ue, 'Kiev ha diritto a colpire il ponte in Crimea, rifornisce le truppe'
+Lo spread tra Btp e Bund chiude in lieve calo a 105 punti
+Bonelli, se non c'e' un programma coraggioso allora niente primarie
+Borsa: l'Europa chiude in forte calo, lente su Nvidia e Ia
+'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft
+Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene
+Instagram testa una nuova app solo per i messaggi chiamata 'Direct'
 Fiducia, IA e recensioni online, a Milano il primo evento italiano di Trustpilot
+Microsoft, un 'bug' nascosto da luglio ha causato il grande disservizio
 Virkkunen, 'con strategia Ue per l'adozione dell'IA mobilitati 2 miliardi'
 Al via a Bruxelles l'AI Apply Summit a un anno dalla strategia Ue
 Universita' di Bologna guida un progetto sull'IA etica per il patrimonio culturale europeo
@@ -31,7 +35,7 @@ Usa, LinkedIn non dovra' cedere i dati dei giornalisti al Dipartimento di Giusti
 Stretta Ue sugli influencer, stop alla pubblicita' nascosta
 Gen Z dal garage alle vendite via social, imprenditori creator su TikTok
 Mediaset presenta Mia, l'agente IA che lavora in sintonia con gli umani
-TikTok 'spinge l'economia italiana, 2,9 miliardi di valore aggiunto 2025'
+La missione Escapade e' in rotta verso Marte
 Per l'Italia un nuovo satellite che monitorera' i movimenti del terreno
 I vaccini del futuro spinti dall'intelligenza artificiale
 Nei microscopici cristalli dei vulcani una spia delle eruzioni
@@ -54,24 +58,29 @@ L'allattamento materno riscrive la storia economica a partire dal 1500
 Il meccanismo che rende le ondate di calore piu' intense
 Anche i cactus sono minacciati dal riscaldamento climatico
 Mappa di una regione del cervello legata a molte malattie VIDEO
+Mister Nvidia fa mea culpa: 'Pronto a tornare se lo vuole il board'
+Fondo culle vuote, exit tax, sicurezza. Le possibili novita'
+Borsa: Milano scivola con l'Europa, male Moncler e Technoprobe
+I prezzi volano oltre le stime, ad ottobre +5,5%
+Borsa: Milano chiude in calo dell'1,31%
 Borsa: Milano peggiora a -1,3% e scende sotto i 51mila punti
 Borsa: l'Europa peggiora con Wall Street, Milano -0,6%
 Wall Street apre contrastata in attesa di Nvidia, Dj -0,76%, Nasdaq +0,02%
 Il petrolio in rialzo a New York a 86,98 dollari
-Bufera su Deutsche Bank, svelati milioni di file segreti
+Deutsche Bank nella bufera, dai file interni gli affari poco trasparenti
 Unirima, riciclo imballaggi in carta e cartone al 93%, otto punti sopra l'obiettivo Ue
 I Bar sono un mercato da 23 miliardi, 125mila imprese e 374mila lavoratori
 Borsa: Milano debole (-0,5%) con l'Europa in attesa di Wall street
-Carbone: "Dal 2021 bloccati 9 miliardi di crediti edilizi illegittimi"
+Caso Revolut, giudici: 'I conti milionari subito svuotati e cambi di valuta'
+Dal 2021 bloccati 9 miliardi di crediti edilizi illegittimi
 Ue, 'Temu non contrasta la vendita di prodotti illegali, rischia multa'
 Carbone (Agenzia Entrate), dal 2021 bloccati 9 miliardi crediti edilizi illegittimi
 Althesys, agrivoltaico in crescita ma serve sciogliere dei nodi
 Baldino, con piano Icsc 5 miliardi di investimenti a sport e cultura
-Dombrovskis: 'L'Italia puo' uscire dalla procedura per deficit in primavera'
+La Ue stima il deficit al 2,9%, l'Italia vede l'uscita dalla procedura
 I cinesi riducono la quota in Pirelli, cedono un altro 6,5%
 Borsa: l'Europa negativa in attesa di Nvidia e dell'Ipo di Anthropic
 I fondi Cvc e Advent litigano per il cioccolato Irca
-Nvidia istituisce comitato di vigilanza per sicurezza nazionale e controllo export
 L'Ue vede il deficit dell'Italia al 2,9% nel 2026 e al 3,5% nel 2027
 Assogestioni, nel terzo trimestre la raccolta netta a 21,9 miliardi di euro
 Le imprese green affrontano meglio le crisi, ma mancano figure competenti
@@ -79,11 +88,3 @@ Sciopero generale dalla scuola ai bus, niente stop per aerei e treni
 Orcel, banche aiutano Paese, ma eccessivo che paghino buchi budget
 Borsa: Milano fiacca, scivola Pirelli (-3%) dopo collocamento di Sinochem
 Orcel, se Agricole aiutata su Bpm vantaggio competitivo asimmetrico
-Mimit, giu' i prezzi dei carburanti a 1,955 euro al litro la benzina e 2,206 il gasolio
-Istat, l'inflazione di ottobre vola al 5,5%, oltre le stime
-Landini, la gente sta male e questa manovra taglia ulteriormente
-Via libera a Saipem per il progetto Longtail Guyana di ExxonMobil
-Avio corre in Borsa (+13%) dopo l'Opa della finlandese Iceye
-Borsa: l'Europa parte debole, Francoforte -0,8%
-Borsa: Milano apre in calo, Ftse Mib -0,64%
-L'oro in rialzo, il prezzo spot a 3.875 dollari
