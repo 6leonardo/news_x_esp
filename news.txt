@@ -1,13 +1,13 @@
-'Casa Bianca, non ci sono minacce credibili dall'Iran'
-'007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'
-Mosca, 'le forze ucraine hanno attaccato di nuovo il ponte di Crimea'
-Sindaco Kiev, 'due importanti ponti della capitale colpiti da attacchi russi'
-Problemi per United Airlines, interruzione nei suoi sistemi
-Sanchez, 'il centro per migranti in Ruanda privo di futuro e di umanita''
-Portaerei Usa Roosevelt in Medio Oriente, e' la terza nell'area
-Problemi d'accesso e disservizi per le principali banche Usa
-Kushner, 'progressi sull'Ucraina, accordo richiedera' decisioni difficili'
-Altman, 'difficile immaginare la rivoluzione IA senza Jensen Huang'
+Borsa: Milano apre in calo, Ftse Mib -0,64%
+L'oro in rialzo, il prezzo spot a 3.875 dollari
+Il gas parte in lieve rialzo (+0,9%) a 85,5 euro al Megawattora
+Cina condanna restrizioni Usa su chip e promette in risposta 'misure necessarie'
+Riunione a Mosca per ripristinare il Ponte di Crimea, immagini di crollo parziale
+Lo spread tra Btp e Bund apre calmo a 105 punti base
+Petrolio in calo, Wti a 85 dollari al barile
+Polizia turca nella sede di una tv di opposizione, arrestati i dirigenti
+Finlandese Iceye lancia opa su Avio, per creare 'campione europeo difesa'
+L'euro poco mosso, a 1,1009 dollari
 Consigliere di OpenAI avverte, 'l'IA rischia di prendere il potere entro il 2028'
 Scrivere per la voce, un talk con Stefano Nazzi e Francesca Crescentini a Casa Spotify
 Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute
@@ -32,8 +32,10 @@ Mediaset presenta Mia, l'agente IA che lavora in sintonia con gli umani
 TikTok 'spinge l'economia italiana, 2,9 miliardi di valore aggiunto 2025'
 Meta estende il rilevamento dell'eta' tramite IA per gli adolescenti su Instagram
 YouTube tornera' nelle classifiche Billboard a partire dal 2027
-Gli Usa rischiano anche una crisi per obsolescenza della rete elettrica
+I vaccini del futuro spinti dall'intelligenza artificiale DIRETTA
+Nei microscopici cristalli dei vulcani una spia delle eruzioni
 Scoperte nella Via Lattea le stelle antenate del Sole
+Gli Usa rischiano anche una crisi per obsolescenza della rete elettrica
 Va in scena lo spettacolo delle Leonidi, stelle cadenti di novembre
 Lo Yucatan fu inquinato di mercurio dagli antichi Maya
 Due atolli corallini tra gli ultimi ecosistemi piu' intatti al mondo VIDEO
@@ -56,10 +58,8 @@ Bernini, nuovi finanziamenti per dare continuita' al Pnrr
 Campi Flegrei, riscritta la storia dell'eruzione che formo' il territorio di Napoli
 Dall'Ue 500 milioni per affrontare le piu' ardue sfide scientifiche
 Lincei, la scienza sia un presidio per la pace e per il futuro dell'Europa
-Cervello, in un catalogo le proteine che superano la barriera di sicurezza
-I raggi X svelano il vero muso dei dinosauri italiani dal becco d'anatra
-Nelle scuole un attacco ibrido 'con l'obiettivo di minare la democrazia'
 Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra
+Altman, 'difficile immaginare la rivoluzione IA senza Jensen Huang'
 Borsa: Milano debole con l'Europa, giu' Technoprobe e Stellantis
 Sri conquista Italian Sea Group
 Il gas in forte calo (-7%) sotto gli 84 euro al Megawattora
@@ -89,3 +89,4 @@ Via libera Euipo a prime due Igp italiane per corallo e il cammeo di Torre del G
 Pesa l'inflazione in Italia, il reddito reale procapite scende dell'1%
 Cop31, bozza decisione sollecita l'eliminazione dei combustibili fossili
 Carmila (Carrefour), 'nasce un campione dei centri commerciali da 9 miliardi'
+Green Arrow Capital investe 15 milioni e consolida la partnership con la famiglia Costa
