@@ -1,13 +1,13 @@
-Putin: 'L'economia russa e' la piu' grande d'Europa, le sanzioni costano all'Ue'
-Xi: 'Serve maggiore cooperazione internazionale sull'intelligenza artificiale'
-Trump ritira la controversa nomina per la guida della Food and Drug Administration
-Aste a New York, Christie's ritira un dipinto di Frida Kahlo
-Borsa: Tokyo, apertura in lieve rialzo (+0,25%)
-Nvidia, 'il board non prevede di reintegrare Jensen Huang'
-Nvidia batte le attese su utili e ricavi nel terzo trimestre, +2,3% nell'after-hours
-La Knesset elegge presidente il fedelissimo di Eisenkot Kahana
-Romeo sostituito al Senato, Dreosto eletto capogruppo della Lega
-Wsj, 'la Sec ha aperto un'indagine su Nvidia'
+Borsa: Milano apre poco mossa (+0,08%)
+Gme, in ribasso l'indice italiano del prezzo del gas
+Lo spread Btp-Bund apre in calo a 102 punti base
+Generali in linea per superare tutti gli obiettivi del piano strategico
+Borsa: l'Asia in ordine sparso, i conti di Nvidia aiutano i tecnologici
+Il gas apre in calo sul mercato di Amsterdam (-0,7%)
+Il prezzo dell'oro ancora giu', Spot a 3.777,93 dollari l'oncia (-1,86%)
+Petrolio in ribasso, Wti a 84,40 dollari al barile (-1,87%)
+Euro in calo a 1,0979 dollari (-0,17%)
+Media, con Mary Peltola i dem vincono anche in Alaska
 'Pittori e mosaicisti a San Pietro', progetto della Fabbrica di San Pietro e Microsoft
 Jensen Huang rompe il silenzio, disposto a tornare a Nvidia se cda lo ritiene
 Instagram testa una nuova app solo per i messaggi chiamata 'Direct'
@@ -35,6 +35,10 @@ Usa, LinkedIn non dovra' cedere i dati dei giornalisti al Dipartimento di Giusti
 Stretta Ue sugli influencer, stop alla pubblicita' nascosta
 Gen Z dal garage alle vendite via social, imprenditori creator su TikTok
 Mediaset presenta Mia, l'agente IA che lavora in sintonia con gli umani
+Il buco dell'ozono nel 2026 e' il settimo piu' esteso degli ultimi 48 anni
+Ottenute cellule ibride, hanno il Dna di un mammifero e di un'alga
+Marte e' solo addormentato, trovati indizi di attivita' vulcanica
+La sonda Voyager 1 della Nasa e' a un giorno-luce dalla Terra
 La missione Escapade e' in rotta verso Marte
 Per l'Italia un nuovo satellite che monitorera' i movimenti del terreno
 I vaccini del futuro spinti dall'intelligenza artificiale
@@ -54,10 +58,9 @@ Nello spazio la prima struttura costruita da un robot VIDEO
 Dalle batterie di sabbia al cemento con argilla, le 10 tecnologie del futuro
 Per Starship primo test che prevede il recupero di navetta e razzo
 Firmato il contratto sulla nuova missione italiana per la navigazione lunare
-L'allattamento materno riscrive la storia economica a partire dal 1500
-Il meccanismo che rende le ondate di calore piu' intense
-Anche i cactus sono minacciati dal riscaldamento climatico
-Mappa di una regione del cervello legata a molte malattie VIDEO
+Saipem si aggiudica due contratti da 181 milioni di dollari
+Fabi, 'balzo Buy now pay later, valutare con attenzione peso su famiglie'
+Borsa: Tokyo, apertura in lieve rialzo (+0,25%)
 Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang
 Fondo culle vuote, exit tax, sicurezza. Le possibili novita'
 Il prezzo del gas poco mosso a 84,73 euro al megawattora
@@ -87,4 +90,3 @@ I fondi Cvc e Advent litigano per il cioccolato Irca
 L'Ue vede il deficit dell'Italia al 2,9% nel 2026 e al 3,5% nel 2027
 Assogestioni, nel terzo trimestre la raccolta netta a 21,9 miliardi di euro
 Le imprese green affrontano meglio le crisi, ma mancano figure competenti
-Sciopero generale dalla scuola ai bus, niente stop per aerei e treni
