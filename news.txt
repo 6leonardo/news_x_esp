@@ -1,13 +1,13 @@
-Musk fa mea culpa: 'Sciocco spendere 500 milioni per i repubblicani alle midterm'
-Argentina, arrestata la moglie di Bertulazzi: 'Complice della fuga'
-Trump: 'Colpa di Obama se Russia e Cina si sono avvicinate'
-Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk
-Bayesian, ente governativo inglese 'scagiona' l'equipaggio
-Record a New York, un Van Gogh aggiudicato per 190 milioni di dollari
-Mosca, 'nuovo attacco degli ucraini al ponte in Crimea'
-Atp Finals: Cobolli in lacrime 'e' la partita che mi rende piu' triste della carriera'
-Principe Harry, 'Russia minaccia preoccupante, pronto a tornare nelle Forze Armate'
-Quasi tutti all'interno della Fed favorevoli a un rialzo dei tassi
+Borsa: Milano apre poco mossa (+0,01%)
+Unicredit e Berlino raggiungono accordo di massima su Commerzbank
+Iea, domanda di energia per raffrescare ha superato quella per riscaldare
+Accordo in Ue per rinviare di due anni la stretta sul metano
+Lo spread tra Btp e Bund apre in calo a 104 punti
+Borsa: l'Asia chiude in ordine sparso tra Anthropic e vertice Trump-Putin-Xi
+Il prezzo del gas apre in rialzo a 82,30 euro al megawattora
+Il petrolio in lieve rialzo, Wti sale a 83,32 dollari al barile
+Il prezzo dell'oro ancora in calo a 3.730 dollari l'oncia
+L'Euro ancora in calo a 1,0966 dollari
 25 anni di Artport, al Whitney Museum di New York omaggio all'arte digitale
 Una guida contro le fake news ideata da autori bolognesi e tedeschi
 Nadella (Microsoft) sull'IA, 'non ha limiti, potrebbe persino guidare il governo'
@@ -36,6 +36,10 @@ Black Friday, i suggerimenti del Garante privacy per acquisti piu' sicuri
 Il 30% dei genitori italiani teme di essere sostituito dall'IA nel supporto ai giovani
 Usa, LinkedIn non dovra' cedere i dati dei giornalisti al Dipartimento di Giustizia
 Stretta Ue sugli influencer, stop alla pubblicita' nascosta
+Scoperto un legame fra aumento delle temperature e natalita'
+Un cane robot guidato da neuroni umani coltivati su chip
+Dalla fisica quantistica un metodo per evitare le truffe online
+Il primo messaggio trasmesso con la gravita'
 Dall'Italia una tecnica per la sicurezza dell'internet quantistica
 Dal fondo del Mediterraneo nuovo test per la relativita' di Einstein
 I venti super potenti dei buchi neri al centro di un paradosso
@@ -60,8 +64,11 @@ Da 77 Nobel un appello alla Ue, '200 miliardi per la ricerca'
 Guidoni e Vittori: 'Con lo Shuttle Endeavour oltre i limiti umani'
 Nel cervello una riserva di staminali per rimodellare i circuiti
 Nello spazio la prima struttura costruita da un robot VIDEO
+L'Ue rinvia al 2029 la stretta sul metano
+Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk
 Manovra: dal condono al Superbonus, le misure che potrebbero cambiare
 Il petrolio chiude in calo a New York a 83,26 dollari
+Quasi tutti all'interno della Fed favorevoli a un rialzo dei tassi
 Manovra: FI, per pmi spalmatura dei crediti del Superbonus dimezzata su 5 anni
 Arriva pensione dedicata per forze dell'ordine, calcolo con fino a 4 anni in piu'
 Saipem chiude i 9 mesi con ricavi per 11,5 miliardi, utile 210 milioni
@@ -81,7 +88,3 @@ Borsa: Milano debole (-1%), frenano Leonardo e Bper, corre Technoprobe
 Anthropic, i sette co-fondatori destinati a essere multimiliardari con l'Ipo
 Banche restano deboli in borsa dopo emendamento su Ires e Bce
 Gava, 'via libera al credito d'imposta del 36% per le imprese plastica riciclata'
-Borsa: Europa piu' debole, New York contrastata, Milano -0,75%
-Violenza di genere, imprese avanti sulle regole ma indietro sulle azioni
-Ecopneus, dal 2027 riduce del 10% il contributo ambientale per la gestione degli Pfu
-Anthropic fissa il prezzo a 83 dollari, verso l'Ipo piu' grande della storia
