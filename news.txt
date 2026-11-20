@@ -1,13 +1,13 @@
-Borsa: l'Europa apre in calo, nel mirino il settore tecnologico
-Borsa: Milano apre in calo dello 0,95% e scende sotto i 50mila punti
-Lo spread tra Btp e Bund apre in calo a 103 punti
-Borsa: l'Asia chiude in forte calo, timori per gli investimenti sull'Ia
-Il prezzo del gas apre in rialzo a 86,59 euro al megawattora
-Al via lo sciopero generale, disagi per scuola, sanita' e trasporto pubblico
-Tre morti e due feriti a Kiev per gli attacchi russi della notte
-Sindaco Kiev, 'colpiti ponti cittadini, traffico interrotto'
-'Trump agli europei, Putin vuole la fine della guerra'
-Gp Las Vegas F1, nessun tempo alle prove libere per la pioggia intensa
+Conte, condono non puo' essere una misura elettorale disperata
+Salvini, al lavoro sul condono per mega-operazione di silenzio assenso
+Salvini, Kiev chiuda il sito Myrotvorets, schedatura nazista
+Schillaci, 'aumenteremo fondo sanita', potremmo attingere a voucher anziani'
+FI presenta emendamento soppressivo degli ebook alla Camera
+Landini, 'siamo piu' di un milione in 100 piazze'
+Dominique de Villepin annuncia la sua candidatura per l'Eliseo
+Zelensky, 'Putin debole in Cina attacca in modo massiccio l'Ucraina'
+Mattarella, l'Italia non puo' privarsi del suo essere molteplice
+Fonti Ue, siglata l'intesa Ue-Uk al summit del reset
 Anthropic debutta in Borsa, ora vale 1.500 miliardi
 Ue, 'in contatto con Italia sul divieto social, potrebbe non servire notifica'
 Causa contro Meta e TikTok, Tribunale Milano rinvia al 21 gennaio in attesa di una legge
@@ -35,7 +35,6 @@ Microsoft torna a funzionare, ma la conta dei danni e' milionaria
 Dipendenza tecnologica e rischio truffe, i nodi del caso Microsoft
 Microsoft, 'servizi in miglioramento, ripristino a fasi'
 Politecnico Milano: 'Nessun attacco hacker ai servizi di Microsoft, possibile guasto'
-Persistono i disservizi Microsoft, ma in via di risoluzione
 I gatti miagolano per chiedere aiuto agli umani
 Marte, dal rover Curiosity nuovi indizi sulla presenza di acqua
 Le spine del fico d'india hanno proprieta' antiossidanti e antibatteriche
@@ -70,21 +69,22 @@ Il primo atlante cellulare di un vertebrato
 Trovati i meccanismi nascosti che legano il Dna alle malattie
 Starship, recuperata la navetta nel test in orbita
 Da 77 Nobel un appello alla Ue, '200 miliardi per la ricerca'
+Borsa: l'Europa in calo con i timori per l'Ia, Milano -1,7%
+Confindustria, 1.400 imprese incontrano 52mila studenti per il Pmi Day
+Studenti, associazioni e partiti in corteo a Terni con la Cgil
+Bancomat, Cbi e Nexi insieme per piattaforma italiana per l'euro digitale
+Borse in rosso, l'Europa peggiora, Milano -2%
+Cna, 'bolletta energia oltre i 200 miliardi. Un'impresa su 3 non riesce a assumere'
+Enel, accordo per l'acquisizione di 317 mw di impianti solari negli Stati Uniti
+Borsa: l'Europa in rosso con tecnologia, titoli di Stato in calo
+La Borsa di Milano cede l'1,3%, scivolano Stm e Prysmian
+Scende ancora il prezzo dei carburanti, benzina a 1,945 euro al litro
+Borsa: l'Europa apre in calo, nel mirino il settore tecnologico
+Borsa: Milano apre in calo dello 0,95% e scende sotto i 50mila punti
 Fincantieri costruira' 2 navi per circa 3 miliardi per Carnival
+Lo spread tra Btp e Bund apre in calo a 103 punti
 L'euro e' in lieve ripresa sul dollaro ma resta sotto 1,1
 Le Borse asiatiche in profondo rosso, timori per gli investimenti sull'Ia
 L'oro crolla a 3.550 dollari, in una settimana perso oltre il 9%
-Sciopero generale al via, disagi per scuola, sanita' e trasporto pubblico
-Petrolio in rialzo, Brent sale a 95,5 dollari al barile
-Crollo di oltre il 5% alla Borsa di Tokyo per i timori sull'intelligenza artificiale
-Oggi lo sciopero, in piazza lavoratori e studenti. Cgil: 'La manovra va cambiata'
-Termovalorizzatore di Roma, perfezionato il finanziamento green da oltre un miliardo
-Borsa: Milano debole con l'Europa e Wall street, scivola Nexi
-Anthropic vola all'esordio a Wall Street, sale del 17%
-Il gas in aumento (+4%) a 84 euro al Megawattora
-Lo spread tra Btp e Bund chiude in rialzo a 107 punti base
-Borsa: l'Europa conclude in ribasso, Londra -0,9%
-Borsa: Milano chiude in calo, Ftse Mib -0,46%
-Borsa: l'Europa peggiora con Wall street, Milano -0,1%
-Anthropic verso esordio a 105 dollari per azione, +26% rispetto a prezzo fissato
-Novita' sul credito al consumo, da domani stretta su 'buy now pay later'
+Il prezzo del gas apre in rialzo a 86,59 euro al megawattora
+Al via lo sciopero generale, disagi per scuola, sanita' e trasporto pubblico
