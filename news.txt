@@ -1,3 +1,5 @@
+Media, 'arrestato in Messico capo cartello narco Meza-Flores'
+F1: Verstappen in pole a Las Vegas, Antonelli il piu' veloce ma parte 6'
 Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'
 F1: in prove libere Las Vegas miglior tempo per Russell, poi Antonelli
 Terremoto di magnitudo 6.7 colpisce il centro del Peru', gente in strada a Lima
@@ -6,8 +8,6 @@ Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrol
 Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%
 Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'
 Trump, 'data center non saranno costruiti in altri Paesi, Cina se li prenderebbe'
-Trump, 'la quotazione di Anthropic un successo, ho rispetto per Dario'
-Trump, 'io e Xi abbiamo concordato di mettere dei paletti comuni sull'Ia'
 Anthropic apre in calo a Wall Street nella seconda giornata di scambi
 FT, 'Tsmc e Samsung sospendono alcune forniture alla Cina dopo stretta Usa'
 Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA
@@ -35,7 +35,9 @@ Scrivere per la voce, un talk con Stefano Nazzi e Francesca Crescentini a Casa S
 Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute
 Microsoft torna a funzionare, ma la conta dei danni e' milionaria
 'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down
+BepiColombo pronta a entrare nell'orbita di Mercurio
 Ricercatore di Anthropic annuncia la soluzione del Sacro Graal della matematica
+Problemi ai motori, la sonda Hayabusa cambia asteroide bersaglio
 I gatti miagolano per chiedere aiuto agli umani
 Marte, dal rover Curiosity nuovi indizi sulla presenza di acqua
 Le spine del fico d'india hanno proprieta' antiossidanti e antibatteriche
@@ -64,9 +66,8 @@ Nei microscopici cristalli dei vulcani una spia delle eruzioni
 Scoperte nella Via Lattea le stelle antenate del Sole
 Gli Usa rischiano anche una crisi per obsolescenza della rete elettrica
 Va in scena lo spettacolo delle Leonidi, stelle cadenti di novembre
-Lo Yucatan fu inquinato di mercurio dagli antichi Maya
-Due atolli corallini tra gli ultimi ecosistemi piu' intatti al mondo VIDEO
-Il primo atlante cellulare di un vertebrato
+Mps: 'L'Opas di Intesa congrua dopo il rilancio e le garanzie su Siena'
+Sciopero del personale Fs fino alle 20 di oggi
 Il petrolio chiude in rialzo a New York a 84,03 dollari
 L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg
 Foti, 'il Pnrr del governo Meloni sara' campione d'Europa'
