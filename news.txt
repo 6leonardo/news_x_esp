@@ -1,3 +1,6 @@
+Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'
+F1: in prove libere Las Vegas miglior tempo per Russell, poi Antonelli
+Terremoto di magnitudo 6.7 colpisce il centro del Peru', gente in strada a Lima
 Giudice Usa, 'la Bayer paghera' 7,25 miliardi alle vittime del diserbante Roundup'
 Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'
 Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%
@@ -5,9 +8,6 @@ Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesante
 Trump, 'data center non saranno costruiti in altri Paesi, Cina se li prenderebbe'
 Trump, 'la quotazione di Anthropic un successo, ho rispetto per Dario'
 Trump, 'io e Xi abbiamo concordato di mettere dei paletti comuni sull'Ia'
-La Danimarca vuole sospendere il rilascio di visti Schengen ai russi
-Melania Trump, intorno a Donald troppi 'yes people'
-Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam
 Anthropic apre in calo a Wall Street nella seconda giornata di scambi
 FT, 'Tsmc e Samsung sospendono alcune forniture alla Cina dopo stretta Usa'
 Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA
@@ -74,6 +74,7 @@ La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Stree
 Cop31, trattativa in alto mare. La chiusura slitta a sabato
 Il cda di Mps unanime: 'L'offerta di Intesa e' 'congrua''
 Il ceo di Anthropic in Puglia, riserbo sui motivi della visita
+Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam
 Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti
 Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe
 Wall Street cala, Nasdaq -3,25%, S 500 perde l'1,89%
@@ -84,5 +85,3 @@ Borsa: Europa debole nel finale, New York contrastata, Milano -2,3%
 Fitch conferma rating di Iccrea Banca a BBB+, in linea con rating sovrano
 Oltre 400 partecipanti alla Borsa internazionale del turismo montano
 Buona adesione a sciopero nelle fabbriche metalmeccaniche in Trentino Alto Adige
-Violenza sulle donne, una cascina alle porte di Milano per ricominciare
-Anas ottiene il suo primo rating di sostenibilita'
