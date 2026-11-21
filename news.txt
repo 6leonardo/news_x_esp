@@ -1,3 +1,6 @@
+Giudice Usa, 'la Bayer paghera' 7,25 miliardi alle vittime del diserbante Roundup'
+Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'
+Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%
 Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'
 Trump, 'data center non saranno costruiti in altri Paesi, Cina se li prenderebbe'
 Trump, 'la quotazione di Anthropic un successo, ho rispetto per Dario'
@@ -5,9 +8,6 @@ Trump, 'io e Xi abbiamo concordato di mettere dei paletti comuni sull'Ia'
 La Danimarca vuole sospendere il rilascio di visti Schengen ai russi
 Melania Trump, intorno a Donald troppi 'yes people'
 Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam
-Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti
-Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe
-Wall Street cala, Nasdaq -3,25%, S 500 perde l'1,89%
 Anthropic apre in calo a Wall Street nella seconda giornata di scambi
 FT, 'Tsmc e Samsung sospendono alcune forniture alla Cina dopo stretta Usa'
 Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA
@@ -35,7 +35,7 @@ Scrivere per la voce, un talk con Stefano Nazzi e Francesca Crescentini a Casa S
 Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute
 Microsoft torna a funzionare, ma la conta dei danni e' milionaria
 'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down
-Costruito nel Veneziano supporto a tokamak per studiare la fusione nucleare
+Ricercatore di Anthropic annuncia la soluzione del Sacro Graal della matematica
 I gatti miagolano per chiedere aiuto agli umani
 Marte, dal rover Curiosity nuovi indizi sulla presenza di acqua
 Le spine del fico d'india hanno proprieta' antiossidanti e antibatteriche
@@ -73,7 +73,10 @@ Foti, 'il Pnrr del governo Meloni sara' campione d'Europa'
 La bolla IA gela i mercati, l'Europa brucia 370 miliardi. Anthropic e Wall Street giu'
 Cop31, trattativa in alto mare. La chiusura slitta a sabato
 Il cda di Mps unanime: 'L'offerta di Intesa e' 'congrua''
-Il ceo di Anthropic a Brindisi, riserbo sui motivi della visita
+Il ceo di Anthropic in Puglia, riserbo sui motivi della visita
+Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti
+Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe
+Wall Street cala, Nasdaq -3,25%, S 500 perde l'1,89%
 Garofalo (Haier), 'Ai nelle case e tecnologia per ridurre i consumi'
 Borsa: l'Europa chiude in rosso, bruciati 370 miliardi
 Borsa: Milano chiude in forte ribasso, -2,48%
@@ -83,6 +86,3 @@ Oltre 400 partecipanti alla Borsa internazionale del turismo montano
 Buona adesione a sciopero nelle fabbriche metalmeccaniche in Trentino Alto Adige
 Violenza sulle donne, una cascina alle porte di Milano per ricominciare
 Anas ottiene il suo primo rating di sostenibilita'
-Borsa: Milano pesa (-2,3%), giu' Stm e Technoprobe, bene Italgas
-Cop31: negoziatore, 'plenaria solo per ok a testi secondari'
-Fs, sciopero del personale dalle 21 di oggi alle 20 di domani
