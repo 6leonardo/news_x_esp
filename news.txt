@@ -1,13 +1,13 @@
-Media, 'arrestato in Messico capo cartello narco Meza-Flores'
-F1: Verstappen in pole a Las Vegas, Antonelli il piu' veloce ma parte 6'
-Cnn, 'nuovo attacco hacker all'Fbi, violato l'archivio criminale'
-F1: in prove libere Las Vegas miglior tempo per Russell, poi Antonelli
-Terremoto di magnitudo 6.7 colpisce il centro del Peru', gente in strada a Lima
-Giudice Usa, 'la Bayer paghera' 7,25 miliardi alle vittime del diserbante Roundup'
-Gli Usa annunciano nuove sanzioni contro l'Iran, colpiti '4 fiduciari del petrolio'
-Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%
-Trump, 'se i big tech costruiranno i data center all'estero li tasseremo pesantemente'
-Trump, 'data center non saranno costruiti in altri Paesi, Cina se li prenderebbe'
+Media palestinesi, 3 morti e diversi feriti in raid Idf a Gaza City
+Von der Leyen, 'inaccettabile l'attacco dell'intelligence russa in Danimarca'
+Pezeshkian, 'siamo impegnati in una guerra economica silenziosa'
+Ukmto, 'seconda petroliera colpita a Hormuz, nessuna vittima'
+Kiev, 'nella notte 3 missili e 148 droni russi lanciati sull'Ucraina, 117 abbattuti'
+MotoGp: Portogallo; Aprilia Bezzecchi in pole, secondo Marc Marquez
+Tajani, sconvolto da morte De Gennaro, vittima di un processo fuori dal tribunale
+Meloni, profondamente scioccata dalla tragica scomparsa di De Gennaro
+Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'
+L'ex capo della Polizia De Gennaro si e' ucciso con un colpo di pistola
 Anthropic apre in calo a Wall Street nella seconda giornata di scambi
 FT, 'Tsmc e Samsung sospendono alcune forniture alla Cina dopo stretta Usa'
 Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA
@@ -35,6 +35,9 @@ Scrivere per la voce, un talk con Stefano Nazzi e Francesca Crescentini a Casa S
 Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute
 Microsoft torna a funzionare, ma la conta dei danni e' milionaria
 'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down
+L'evoluzione della statura racconta 7.000 anni di sviluppo economico
+Ricostruita l'avanzata del virus Herpes simplex nella pelle
+Due telescopi extra per il piu' grande osservatorio a raggi gamma
 BepiColombo pronta a entrare nell'orbita di Mercurio
 Ricercatore di Anthropic annuncia la soluzione del Sacro Graal della matematica
 Problemi ai motori, la sonda Hayabusa cambia asteroide bersaglio
@@ -66,6 +69,9 @@ Nei microscopici cristalli dei vulcani una spia delle eruzioni
 Scoperte nella Via Lattea le stelle antenate del Sole
 Gli Usa rischiano anche una crisi per obsolescenza della rete elettrica
 Va in scena lo spettacolo delle Leonidi, stelle cadenti di novembre
+Cgia, 2,4 milioni di famiglie italiane a rischio poverta' energetica
+Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio truffe
+Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro
 Mps: 'L'Opas di Intesa congrua dopo il rilancio e le garanzie su Siena'
 Sciopero del personale Fs fino alle 20 di oggi
 Il petrolio chiude in rialzo a New York a 84,03 dollari
@@ -79,10 +85,3 @@ Il gas sale ancora e supera gli 88 euro sulla piazza Ttf di Amsterdam
 Lo spread tra Btp e Bund tedeschi chiude in rialzo a 109,9 punti
 Borsa: Milano chiude in forte ribasso, pesano Stm e Technoprobe
 Wall Street cala, Nasdaq -3,25%, S 500 perde l'1,89%
-Garofalo (Haier), 'Ai nelle case e tecnologia per ridurre i consumi'
-Borsa: l'Europa chiude in rosso, bruciati 370 miliardi
-Borsa: Milano chiude in forte ribasso, -2,48%
-Borsa: Europa debole nel finale, New York contrastata, Milano -2,3%
-Fitch conferma rating di Iccrea Banca a BBB+, in linea con rating sovrano
-Oltre 400 partecipanti alla Borsa internazionale del turismo montano
-Buona adesione a sciopero nelle fabbriche metalmeccaniche in Trentino Alto Adige
