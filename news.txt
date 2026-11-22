@@ -1,13 +1,13 @@
+F1:Hamilton'battaglia non sia tra me e Leclerc, ma ad esempio tra Ferrari e McLaren'
+F1: Las Vegas; Verstappen 'gara surreale, che finale di stagione per noi'
+F1:Las Vegas;autoscontro Ferrari; Vasseur fuorioso'inaccettabile,Leclerc ha sbagliato'
+F1: Las Vegas; vince Verstappen, quarto Antonelli, settima Ferrari Hamilton
+Cop31, nuova bozza con riferimento indiretto all'uscita dai combustibili fossili
 Cop 31, nella bozza nessuna menzione dei combustibili fossili
 Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky
 Trump, 'stiamo lavorando per espandere la tregua di Oleshky'
 Ministero Interno francese, '144 fermi ai cortei in tutto il Paese'
 Bahrein, incendio in un sito industriale civile per un attacco iraniano
-I paletti del Likud sul governo unita', 'nessuno Stato palestinese, niente veti a Bibi'
-L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva
-Trump, 'Vance e Rubio fantastici ma per il 2028 potrebbero esserci sorprese'
-Oltre 82.000 ai cortei in Francia, tensioni a Parigi e fermi a Lione e Bordeaux
-Gatto a spasso in cabina, volo della Delta bloccato a Boston
 Anthropic apre in calo a Wall Street nella seconda giornata di scambi
 FT, 'Tsmc e Samsung sospendono alcune forniture alla Cina dopo stretta Usa'
 Dipendenti Google contro il blocco della ricerca alle scuole Usa che rifiutano l'IA
@@ -35,6 +35,7 @@ Scrivere per la voce, un talk con Stefano Nazzi e Francesca Crescentini a Casa S
 Apple lancia app per studiare l'uso dell'intelligenza artificiale nella salute
 Microsoft torna a funzionare, ma la conta dei danni e' milionaria
 'Rammaricati per l'impatto sui clienti', Microsoft al lavoro per risolvere il down
+La sonda BepiColombo e' arrivata nell'orbita di Mercurio
 L'evoluzione della statura racconta 7.000 anni di sviluppo economico
 Ricostruita l'avanzata del virus Herpes simplex nella pelle
 Due telescopi extra per il piu' grande osservatorio a raggi gamma
@@ -64,11 +65,6 @@ Marte e' solo addormentato, trovati indizi di attivita' vulcanica
 La sonda Voyager 1 della Nasa e' a un giorno-luce dalla Terra
 La missione Escapade e' in rotta verso Marte
 Per l'Italia un nuovo satellite che monitorera' i movimenti del terreno
-I vaccini del futuro spinti dall'intelligenza artificiale
-Nei microscopici cristalli dei vulcani una spia delle eruzioni
-Scoperte nella Via Lattea le stelle antenate del Sole
-Gli Usa rischiano anche una crisi per obsolescenza della rete elettrica
-Va in scena lo spettacolo delle Leonidi, stelle cadenti di novembre
 Nuovi tagli al bilancio Ue, c'e' una digital tax da 5,2 miliardi
 Merz, 'nuova proposta bilancio Ue passo avanti ma ancora troppo alta
 Orcel: "Unicredit crescera' ancora, ma la sede restera' a Milano"
@@ -77,5 +73,3 @@ Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio t
 Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro
 Mps: 'L'Opas di Intesa congrua ma non riflette il nostro valore'
 Sciopero del personale Fs fino alle 20 di oggi
-Il petrolio chiude in rialzo a New York a 84,03 dollari
-L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg
